@@ -1,18 +1,55 @@
-## Getting Started
+# 🏫 University Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java-based desktop application to manage university operations such as student records, faculty details, and academic data.  
+This project demonstrates core Java concepts along with database connectivity and UI development.
 
-## Folder Structure
+## ✨ Features
 
-The workspace contains two folders by default, where:
+- Manage student information  
+- Manage faculty records  
+- Store and retrieve academic results  
+- View course-wise student details  
+- User-friendly desktop interface  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🔨 Tech Stack
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Language:** Java  
+- **UI:** Swing, AWT  
+- **Database:** MySQL  
+- **Connectivity:** JDBC  
+- **Concepts Used:** OOP, Modular Programming, Data Handling  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧩 Project Structure
 
-## Dependency Management
+- Modular Java classes for better code organization  
+- Separate layers for UI, logic, and database operations  
+- JDBC used for database communication  
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🏃‍➡️ How It Works
+
+1. User interacts with the Swing-based UI  
+2. Input data is processed using Java logic  
+3. Data is stored and retrieved from MySQL using JDBC  
+4. Results are displayed back on the UI  
+
+## 👇 Prerequisites
+
+- Java JDK installed  
+- MySQL installed and running  
+- Basic knowledge of Java and SQL  
+
+## 👨‍🏭 How to Run
+
+1. Clone the repository  
+2. Import the project into any Java IDE (Eclipse / IntelliJ / NetBeans)  
+3. Configure MySQL database and update DB credentials in the code  
+4. Run the main Java file  
+
+## 📚 Learning Outcome
+
+- Hands-on experience with Java desktop applications  
+- Understanding of JDBC and database integration  
+- Practical use of OOP concepts  
+- Improved modular coding and UI handling  
+
+  
